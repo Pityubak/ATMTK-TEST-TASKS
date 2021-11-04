@@ -7,5 +7,6 @@ composer install
 ```  
 
 And then test can be run with the following command in the root directory:
-
+```console
  ./vendor/bin/phpunit tests
+ ```  
